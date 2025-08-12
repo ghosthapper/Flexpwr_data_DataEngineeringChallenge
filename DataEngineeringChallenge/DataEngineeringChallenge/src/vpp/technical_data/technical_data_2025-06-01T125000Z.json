@@ -1,0 +1,107 @@
+{
+  "assets": [
+    {
+      "asset_id": "SOL-DE-001",
+      "name": "Brandenburg Solar Park",
+      "type": "solar",
+      "location": {
+        "latitude": 52.4125,
+        "longitude": 13.0544,
+        "timezone": "Europe/Berlin"
+      },
+      "technical_attributes": {
+        "capacity_kw": 1088,
+        "panel_type": "monocrystalline",
+        "tracking_type": "fixed",
+        "commissioning_date": "2024-03-15"
+      },
+      "status": "operational",
+      "owner": {
+        "name": "FlexPower GmbH"
+      }
+    },
+    {
+      "asset_id": "SOL-DE-002",
+      "name": "Bavaria Solar Field",
+      "type": "solar",
+      "location": {
+        "latitude": 48.7904,
+        "longitude": 11.4979,
+        "timezone": "Europe/Berlin"
+      },
+      "technical_attributes": {
+        "capacity_kw": 1490,
+        "panel_type": "polycrystalline",
+        "tracking_type": "single_axis",
+        "commissioning_date": "2023-11-02"
+      },
+      "status": "operational",
+      "owner": {
+        "name": "FlexPower GmbH"
+      }
+    },
+    {
+      "asset_id": "WND-DE-001",
+      "name": "North Sea Wind Cluster",
+      "type": "wind",
+      "location": {
+        "latitude": 54.3264,
+        "longitude": 8.6143,
+        "timezone": "Europe/Berlin"
+      },
+      "technical_attributes": {
+        "capacity_kw": 4000,
+        "turbine_model": "Siemens SWT-3.6-120",
+        "turbine_count": 5,
+        "hub_height_meters": 100,
+        "commissioning_date": "2025-05-01"
+      },
+      "status": "operational",
+      "owner": {
+        "name": "FlexPower GmbH"
+      }
+    },
+    {
+      "asset_id": "WND-DE-002",
+      "name": "Thuringia Wind Site",
+      "type": "wind",
+      "location": {
+        "latitude": 50.9848,
+        "longitude": 11.0299,
+        "timezone": "Europe/Berlin"
+      },
+      "technical_attributes": {
+        "capacity_kw": 6600,
+        "turbine_model": "Vestas V112",
+        "turbine_count": 4,
+        "hub_height_meters": 95,
+        "commissioning_date": "2024-09-10"
+      },
+      "status": "operational",
+      "owner": {
+        "name": "FlexPower GmbH"
+      }
+    },
+    {
+      "asset_id": "WND-DE-003",
+      "name": "North Frisia Wind Farm",
+      "type": "wind",
+      "location": {
+        "latitude": 54.7805,
+        "longitude": 8.8281,
+        "timezone": "Europe/Berlin"
+      },
+      "technical_attributes": {
+        "capacity_kw": 5600.0,
+        "turbine_model": "Siemens Gamesa SG 6.0-155",
+        "turbine_count": 2,
+        "hub_height_meters": 120,
+        "commissioning_date": "2024-03-15"
+      },
+      "status": "operational",
+      "owner": {
+        "name": "WindEnergy Nord GmbH"
+      }
+    }
+  ]
+}
