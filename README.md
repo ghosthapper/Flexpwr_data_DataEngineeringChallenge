@@ -272,11 +272,12 @@ If you encounter import errors:
 3. Create a new virtual environment if needed
 
 ## 🤖 AI Help
-Need assistance? Use ChatGPT or Claude AI for quick solutions.
+Use ChatGPT or Claude AI for quick solutions.
 
 ## Support
 For issues and questions:
 1. Check the common issues section above
 2. Run the test suite to verify your setup
 3. Check task-specific documentation in each folder
+
 
